@@ -3,3 +3,6 @@ body {
   color: black;
   font-family: Garamond, serif;
 }
+h2 {
+  text-decoration: underline #573809;
+}
