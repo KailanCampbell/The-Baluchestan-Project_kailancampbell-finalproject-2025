@@ -1,8 +1,28 @@
 body {
-  text-align: center;
-  color: black;
-  font-family: Garamond, serif;
-}
-h2 {
-  text-decoration: underline #573809;
-}
+ 	 text-align: center;
+ 	 color: black;
+ 	 font-family: "Garamond", serif;
+     background-color: #fdf6e5;
+	}
+	h2 {
+ 	 text-decoration: underline #573809;
+	}
+    header {
+     background-color: #573809;
+     color: #fdf6e5;
+     text-shadow: black;
+    }
+    img {
+     border: 4px dotted #573809;
+    }
+    table {
+    	margin-left: auto;
+  		margin-right: auto; 
+    }
+    footer {
+    	background-color: #573809;
+        color: #fdf6e5;
+    }
+    .navigation-table {
+    	background-color: #d8d4cb;
+    }
