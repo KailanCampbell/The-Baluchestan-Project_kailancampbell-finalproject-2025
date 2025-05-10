@@ -23,14 +23,14 @@ html, body {
   		justify-content: center;
   		align-items: center;
     }
-    .header-map {
+    .image-holder .header-map {
     	position: absolute;
-    	opacity: 0.25;
         clip-path: inset(3900px 2250px 500px 200px); 
         top: -400%;
         left: -40%;
-       	 transform: rotate(-9.6deg);
-        object-fit: fill;
+       	transform: rotate(-9.6deg); 
+        opacity: 0.25;
+        object-fit: cover;
     }
     img {
     	border: 4px solid #573809;
