@@ -33,6 +33,8 @@ table {
   	margin-right: auto; 
 }
 .iraq-iran {
+	display:table;
+    	table-layout:fixed;
 	float: center;
   	overflow: hidden;
         text-align: center;
