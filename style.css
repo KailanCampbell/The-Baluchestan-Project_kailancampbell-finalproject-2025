@@ -34,6 +34,14 @@ table {
 }
 .iraq-iran {
 	border: 1px solid black;
+	float: left;
+  	overflow: hidden;
+        text-align: center;
+}
+.iraq-iran tr td {
+	border: 1px solid black;
+	width: 100px;
+	height: 160px;
 }
 footer {
     	background-color: #573809;
