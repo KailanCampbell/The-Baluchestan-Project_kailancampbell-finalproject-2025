@@ -45,11 +45,9 @@ table {
 .iraq-iran tr td {
 	border: 1px solid black;
 	width: 100px;
+	background-size: 100px 160px;
 }
-#iraq-iran-H40P {
-	background-image: url("https://isac-idb-static.uchicago.edu/multimedia/3006973/1015043_K501_Rayin_H-40P_1941_preview.1920x1200.jpg");
-    	background-size: 100px 160px;
-}
+
 footer {
     	background-color: #573809;
         color: #fdf6e5;
