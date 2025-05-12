@@ -38,10 +38,13 @@ table {
   	overflow: hidden;
         text-align: center;
 }
+.iraq-iran tr {
+	border: 1px solid black;
+	height: 160px;
+}
 .iraq-iran tr td {
 	border: 1px solid black;
 	width: 100px;
-	height: 160px;
 }
 footer {
     	background-color: #573809;
