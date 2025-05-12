@@ -33,13 +33,11 @@ table {
   	margin-right: auto; 
 }
 .iraq-iran {
-	border: 1px solid black;
-	float: left;
+	float: center;
   	overflow: hidden;
         text-align: center;
 }
 .iraq-iran tr {
-	border: 1px solid black;
 	height: 160px;
 }
 .iraq-iran tr td {
