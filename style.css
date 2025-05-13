@@ -38,6 +38,7 @@ table {
 	float: center;
   	overflow: hidden;
         text-align: center;
+	background-color: #ebdec1;
 }
 .iraq-iran tr {
 	height: 160px;
