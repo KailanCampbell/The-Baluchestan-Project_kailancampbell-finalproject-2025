@@ -43,13 +43,26 @@ table {
         text-align: center;
 	background-color: #ebdec1;
 }
-.iraq-iran tr {
-	height: 160px;
-}
+
 .mapgrid tr td {
 	border: 1px solid black;
+}
+
+#iraq-iran tr {
+	height: 160px;
+}
+#iraq-iran tr td {
 	width: 100px;
 	background-size: 100px 160px;
+}
+
+#indiaandadjacentcountries tr {
+	height: 600px;
+}
+
+#indiaandadjacentcountries tr td {
+	width: 500px;
+	background-size: 500px 600px;
 }
 
 footer {
