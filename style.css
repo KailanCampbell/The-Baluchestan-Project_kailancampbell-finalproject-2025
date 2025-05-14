@@ -35,7 +35,7 @@ table {
     	margin-left: auto;
   	margin-right: auto; 
 }
-.iraq-iran {
+.mapgrid {
 	display:table;
     	table-layout:fixed;
 	float: center;
@@ -46,7 +46,7 @@ table {
 .iraq-iran tr {
 	height: 160px;
 }
-.iraq-iran tr td {
+.mapgrid tr td {
 	border: 1px solid black;
 	width: 100px;
 	background-size: 100px 160px;
