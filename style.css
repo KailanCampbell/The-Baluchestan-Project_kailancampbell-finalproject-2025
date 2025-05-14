@@ -57,12 +57,12 @@ table {
 }
 
 #indiaandadjacentcountries tr {
-	height: 600px;
+	height: 300px;
 }
 
 #indiaandadjacentcountries tr td {
-	width: 500px;
-	background-size: 500px 600px;
+	width: 250px;
+	background-size: 250px 300px;
 }
 
 footer {
