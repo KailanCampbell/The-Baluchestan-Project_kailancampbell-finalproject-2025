@@ -47,7 +47,17 @@ table {
 .mapgrid tr td {
 	border: 1px solid black;
 }
-
+.centermap {
+	text-align: center;
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	border: 4px solid #573809;
+}
 #iraq-iran tr {
 	height: 160px;
 }
