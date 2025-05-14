@@ -5,9 +5,19 @@ html, body {
 	background-color: #fdf6e5;
 	width: 100%;
 }
+
 h2 {
 	text-decoration: underline #573809;
 	font-size: 48px;
+}
+h3 {
+	font-size: 36px;
+}
+h5 {
+	font-size: 24px;
+}
+p {
+	font-size: 20px;
 }
 #baluchheader {
 	font-weight: bold;
