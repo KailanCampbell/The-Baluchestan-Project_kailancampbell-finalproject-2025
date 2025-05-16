@@ -94,7 +94,7 @@ footer {
     	background-color: #573809;
         color: #fdf6e5;
 	width: 100%;
-	font-family: "Lexend", sans-serif;
+	font-family: "Namdhinggo", serif;
 }
 .navigation-table {
         width: 100%;
@@ -110,12 +110,36 @@ footer {
  	font-weight: <weight>;
  	font-style: normal;
 }
-.lexend-<uniquifier> {
-  font-family: "Lexend", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
+.namdhinggo-regular {
+  font-family: "Namdhinggo", serif;
+  font-weight: 400;
   font-style: normal;
 }
+
+.namdhinggo-medium {
+  font-family: "Namdhinggo", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.namdhinggo-semibold {
+  font-family: "Namdhinggo", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.namdhinggo-bold {
+  font-family: "Namdhinggo", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.namdhinggo-extrabold {
+  font-family: "Namdhinggo", serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
 .dropdown {
   	float: left;
   	overflow: hidden;
