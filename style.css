@@ -22,6 +22,22 @@ h5 {
 p {
 	font-size: 20px;
 }
+.biglist {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+ ol.myOL {
+      display: inline-block;
+      text-align: left;
+    }
+
+    ol.myOL > li > ul {
+      margin-top: 4px;
+      margin-bottom: 8px;
+}
 #baluchheader {
 	font-weight: bold;
     	font-size: 72px;
